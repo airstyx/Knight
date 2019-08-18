@@ -6,7 +6,7 @@
 
 ## 成品展示
 
-![](https://github.com/grand-coder/pythondiary/raw/master/index.png)
+懶得拍
 
 ## 使用技術
 
